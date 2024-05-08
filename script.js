@@ -57,3 +57,6 @@ let costofticket=600;
 let buyingticket=5;
 let result="costofticket+buyingticket";
 console.log("total cost"+(costofticket* buyingticket))
+
+let name="aisha"
+console.log(name)
